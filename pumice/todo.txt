@@ -1,0 +1,9 @@
+what needs to happen before a "0.1" release:
+
+4.  Add eig function for finding eigenvalues and eigenvectors
+7.  Add SVD
+11. Add eigenvalue decomposition
+12. Rehab CG, and add more iterative methods.
+10. Integrate gepp with lu
+
+
